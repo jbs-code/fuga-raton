@@ -1,0 +1,19 @@
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.pri
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Master\UnityEngine.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Master\WinRTLegacy.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Master\UnityEngine.pdb
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\priconfig.xml
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\priconfig.xml.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\layout.resfiles
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\layout.resfiles.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\resources.resfiles
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\resources.resfiles.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\pri.resfiles
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\pri.resfiles.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\qualifiers.txt
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\qualifiers.txt.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Master\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,22 @@
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\ARM\Master\Assembly-CSharp.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\ARM\Master\Assembly-CSharp.pdb
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\ARM\Master\Assembly-CSharp.pri
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\ARM\Master\UnityEngine.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\ARM\Master\WinRTLegacy.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\ARM\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\ARM\Master\Assembly-CSharp-firstpass.pri
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\ARM\Master\UnityEngine.pdb
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\Assembly-CSharp-metro-vs2013.csprojResolveAssemblyReference.cache
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\Assembly-CSharp.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\Assembly-CSharp.pdb
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\priconfig.xml
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\priconfig.xml.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\layout.resfiles
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\layout.resfiles.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\resources.resfiles
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\resources.resfiles.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\pri.resfiles
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\pri.resfiles.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\qualifiers.txt
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\qualifiers.txt.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\ARM\Master\MultipleQualifiersPerDimensionFound.txt

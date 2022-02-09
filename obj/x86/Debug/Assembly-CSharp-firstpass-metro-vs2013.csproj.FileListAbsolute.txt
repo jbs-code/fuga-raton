@@ -1,0 +1,20 @@
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Debug\UnityEngine.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Debug\WinRTLegacy.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\bin\Store 8.1\x86\Debug\UnityEngine.pdb
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\Assembly-CSharp-firstpass-metro-vs2013.csprojResolveAssemblyReference.cache
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\priconfig.xml
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\layout.resfiles
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\resources.resfiles
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\pri.resfiles
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\qualifiers.txt
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\JAIME\Desktop\ProyectoJuego\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
