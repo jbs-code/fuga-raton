@@ -18,9 +18,9 @@ public class GameOver : MonoBehaviour {
 
 	void OnGUI(){
 		GUI.skin = sk;
-		if (GUI.Button (new Rect (Screen.width / 1.5f, Screen.height/1.25f, Screen.width / 4.0f, Screen.width / 12.0f), "Jugar"))
+		if (GUI.Button (new Rect (Screen.width / 1.5f, Screen.height/1.25f, Screen.width / 4.0f, Screen.width / 12.0f), "Play"))
 			 SceneManager.LoadScene("escena1");
-		if (GUI.Button (new Rect (Screen.width / 8.0f, Screen.height/1.25f, Screen.width / 4.0f, Screen.width / 12.0f), "Inicio"))
+		if (GUI.Button (new Rect (Screen.width / 8.0f, Screen.height/1.25f, Screen.width / 4.0f, Screen.width / 12.0f), "Home"))
 			 SceneManager.LoadScene("inicio");
 	}
 }

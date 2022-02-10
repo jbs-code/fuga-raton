@@ -20,7 +20,7 @@ public class Pause : MonoBehaviour {
 
 	void OnGUI(){
 		GUI.skin = sk;
-		if (GUI.Button (new Rect (Screen.width / 1.5f, Screen.height / 10, Screen.width / 5.5f, Screen.height / 10), "pause")) {
+		if (GUI.Button (new Rect (Screen.width / 1.5f, Screen.height / 10, Screen.width / 5.5f, Screen.height / 10), "Pause")) {
             //menu.GetComponent<Score>().activar = true;
             Time.timeScale = 0;
             GetComponent<AudioSource>().Pause(); 
@@ -29,14 +29,14 @@ public class Pause : MonoBehaviour {
 
         if (pause)
         {
-            if (GUI.Button(new Rect(Screen.width / 1.5f, Screen.height / 2, Screen.width / 4.0f, Screen.width / 12.0f), "Jugar"))
+            if (GUI.Button(new Rect(Screen.width / 1.5f, Screen.height / 2, Screen.width / 4.0f, Screen.width / 12.0f), "Play"))
             {
                  SceneManager.LoadScene("escena1");
                 Time.timeScale = 1;
                 GetComponent<AudioSource>().Play();
                 pause = false;
             }
-            if (GUI.Button(new Rect(Screen.width / 8.0f, Screen.height / 2, Screen.width / 4.0f, Screen.width / 12.0f), "Inicio"))
+            if (GUI.Button(new Rect(Screen.width / 8.0f, Screen.height / 2, Screen.width / 4.0f, Screen.width / 12.0f), "Home"))
                  SceneManager.LoadScene("inicio");
         }
     }
